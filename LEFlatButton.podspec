@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "LEFlatButton"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Simple Flat UIButton"
   s.description      = "LEFlatButton is a UIButton subclass with a flat style"
   s.homepage         = "https://github.com/efremidze/LEFlatButton"

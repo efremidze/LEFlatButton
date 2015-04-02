@@ -8,6 +8,8 @@
 
 `LEFlatButton` is a `UIButton` subclass with a flat style
 
+![Screenshot](Screenshots/screenshot.png)
+
 ## Usage
 
 ### Installation
@@ -17,6 +19,17 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod "LEFlatButton"
+```
+
+### Example
+
+```objectivec
+LEFlatButton *button = [[LEFlatButton alloc] initWithFrame:(CGRect){0, 0, 240, 40}];
+button.layer.cornerRadius = 6.0f;
+button.layer.masksToBounds = YES;
+button.backgroundColor = [UIColor redColor];
+[button setFlatTitle:@"Red Button"];
+[self.view addSubview:button];
 ```
 
 ## License

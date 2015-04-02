@@ -50,12 +50,8 @@
 
 - (void)setBorderColor:(UIColor *)borderColor
 {
+    _borderColor = borderColor;
     self.layer.borderColor = borderColor.CGColor;
-}
-
-- (UIColor *)borderColor
-{
-    return [UIColor colorWithCGColor:self.layer.borderColor];
 }
 
 - (UIColor *)borderHighlightedColor
