@@ -9,6 +9,7 @@
 `LEFlatButton` is a `UIButton` subclass with a flat style
 
 ![Screenshot](Screenshots/screenshot.png)
+![Screenshot 2](Screenshots/screenshot2.png)
 
 ## Usage
 
