@@ -1,0 +1,2 @@
+language: objective-c
+script: xctool -project LEFlatButtonDemo.xcodeproj -scheme LEFlatButtonDemo -sdk iphonesimulator8.1
