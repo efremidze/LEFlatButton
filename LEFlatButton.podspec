@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
   s.summary          = "Simple Flat UIButton"
   s.description      = "LEFlatButton is a UIButton subclass with a flat style"
   s.homepage         = "https://github.com/efremidze/LEFlatButton"
+  s.screenshots      = "https://github.com/efremidze/LEFlatButton/raw/master/Screenshots/screenshot.png"
   s.license          = 'MIT'
   s.author           = { "Lasha Efremidze" => "efremidzel@hotmail.com" }
   s.source           = { :git => "https://github.com/efremidze/LEFlatButton.git", :tag => s.version.to_s }
