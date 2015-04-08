@@ -1,5 +1,6 @@
 # LEFlatButton
 
+[![CI Status](http://img.shields.io/travis/efremidze/LEFlatButton.svg?style=flat)](https://travis-ci.org/efremidze/LEFlatButton)
 [![Version](https://img.shields.io/cocoapods/v/LEFlatButton.svg?style=flat)](http://cocoapods.org/pods/LEFlatButton)
 [![License](https://img.shields.io/cocoapods/l/LEFlatButton.svg?style=flat)](http://cocoapods.org/pods/LEFlatButton)
 [![Platform](https://img.shields.io/cocoapods/p/LEFlatButton.svg?style=flat)](http://cocoapods.org/pods/LEFlatButton)
