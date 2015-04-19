@@ -34,6 +34,10 @@ button.backgroundColor = [UIColor redColor];
 [self.view addSubview:button];
 ```
 
+## Contributions
+
+Contributions are totally welcome.
+
 ## License
 
 LEFlatButton is available under the MIT license. See the LICENSE file for more info.
